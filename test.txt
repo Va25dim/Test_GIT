@@ -1,6 +1,11 @@
  dsfkasjf;aslkdfj
  adsflkasjdf;askjfd
  123
+<<<<<<< HEAD
+=======werwr
+ 654212432345
+ 123
+>>>>>>> d55d23c05cb81bca9e3d7b94d0e64301b2d47700
  678
  987645
  adsfj'kdsajflkdsajf
